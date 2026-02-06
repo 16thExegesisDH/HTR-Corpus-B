@@ -15,181 +15,134 @@ characters:
   - n
   - o
   - r
-  - m
   - ſ
+  - m
   - c
   - d
-  - s
   - l
   - p
+  - s
   - ','
   - .
-  - b
   - q
+  - b
+  - v
+  - ¬
+  - æ
   - h
+  - '&'
   - g
   - f
-  - ¬
-  - ̃
-  - '&'
-  - æ
-  - v
-  - I
-  - x
   - ̀
-  - E
-  - ':'
+  - ̃
+  - x
   - D
-  - A
   - P
+  - E
+  - A
+  - I
   - C
+  - '1'
+  - ':'
+  - V
+  - ́
   - S
   - T
-  - ́
-  - N
-  - V
+  - '2'
+  - j
   - M
+  - N
+  - '3'
+  - y
   - α
+  - Q
+  - '4'
   - ι
   - ο
-  - O
   - H
-  - R
-  - ε
-  - τ
-  - '1'
-  - 
-  - Q
-  - j
-  - ν
-  - σ
-  - υ
-  - '2'
-  - ̓
-  - ρ
-  - L
-  - ̨
-  - ς
-  - μ
-  - y
-  - ᛘ
-  - λ
-  - œ
-  - η
-  - '3'
-  - κ
-  - '4'
-  - π
-  - ͂
-  - '!'
-  - ·
-  - ω
   - '5'
-  - '|'
-  - ˒
-  - ̂
-  - G
-  - '?'
+  - L
+  - ν
+  - ε
+  - R
+  - œ
+  - ̨
   - '6'
-  - B
-  - ¶
-  - ;
-  - )
-  - F
+  - ς
+  - '7'
   - '8'
   - '9'
-  - γ
-  - ß
-  - '7'
-  - δ
-  - ']'
-  - (
-  - ꝙ
-  - θ
-  - φ
+  - ρ
+  - ̂
+  - ̓
+  - τ
+  - B
   - '0'
-  - χ
-  - ̔
+  - λ
+  - σ
+  - ;
+  - G
+  - )
+  - π
+  - κ
+  - υ
+  - η
+  - γ
+  - O
+  - F
+  - (
+  - ω
+  - μ
+  - θ
+  - δ
+  - ͂
+  - '?'
   - z
-  - 
-  - β
-  - ꝗ
-  - ꝓ
-  - ꝰ
-  - X
-  - ξ
-  - /
-  - 
-  - ̧
+  - φ
   - Α
-  - ͅ
-  - ̈
-  - ꝶ
-  - Ε
-  - ꝑ
-  - Κ
-  - ζ
-  - ’
+  - χ
   - "'"
-  - k
-  - ꝵ
-  - 
-  - ψ
+  - ξ
+  - β
   - Æ
-  - Π
-  - Τ
-  - ẜ
-  - ⁋
-  - Z
-  - Β
-  - ʹ
+  - ’
+  - ̧
+  - ζ
   - Μ
-  - U
+  - ̈
+  - ʹ
   - '-'
-  - '*'
-  - Σ
-  - Y
-  - K
-  - Δ
-  - đ
-  - ❧
-  - Ꝙ
+  - ̔
+  - Ε
+  - ꝰ
+  - Π
   - J
+  - ꝙ
+  - Τ
+  - '{'
+  - Κ
+  - Z
+  - K
+  - U
+  - '*'
+  - '!'
+  - X
+  - '|'
+  - k
+  - ·
   - Ν
-  - Λ
-  - ו
-  - ח
-  - ł
-  - Ο
-  - א
-  - ל
-  - י
-  - ꝯ
-  - »
-  - ↄ
-  - £
-  - Η
-  - $
-  - Υ
-  - Γ
-  - Θ
-  - ẞ
-  - ̄
-  - ש
-  - ד
-  - ב
+  - „
+  - 
+  - Β
   - –
   - w
-  - ħ
-  - §
-  - „
-  - Χ
-  - ᾽
-  - ת
-  - פ
-  - ה
-  - +
-  - Ι
+  - Σ
+  - Y
+  - ꝗ
+  - »
+  - ל
+  - ᚠ
+  - ']'
   mode: NFD
 description: Data for data for Paul’s exegesis.
 format: Alto-XML
@@ -203,7 +156,7 @@ license:
   url: https://creativecommons.org/licenses/by/4.0/
 production-software: eScriptorium + Kraken
 project-name: L'exegese Paulinienne
-project-website:  https://16thexegesisdh.github.io/ReformingPaul/
+project-website: https://16thexegesisdh.github.io/ReformingPaul/
 schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 script:
 - iso: Latn
@@ -215,11 +168,11 @@ title: Corpus-A
 transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
 url: https://github.com/16thExegesisDH/HTR-Corpus-B
 volume:
-- count: 746815
+- count: 551262
   metric: characters
-- count: 485
+- count: 450
   metric: files
-- count: 18815
+- count: 15743
   metric: lines
-- count: 3246
+- count: 2612
   metric: regions
