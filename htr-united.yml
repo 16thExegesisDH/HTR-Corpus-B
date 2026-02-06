@@ -1,0 +1,225 @@
+authors:
+- name: Floriane
+  roles:
+  - transcriber
+  - project-manager
+  - quality-control
+  surname: Goy
+characters:
+  members:
+  - i
+  - e
+  - t
+  - u
+  - a
+  - n
+  - o
+  - r
+  - m
+  - ſ
+  - c
+  - d
+  - s
+  - l
+  - p
+  - ','
+  - .
+  - b
+  - q
+  - h
+  - g
+  - f
+  - ¬
+  - ̃
+  - '&'
+  - æ
+  - v
+  - I
+  - x
+  - ̀
+  - E
+  - ':'
+  - D
+  - A
+  - P
+  - C
+  - S
+  - T
+  - ́
+  - N
+  - V
+  - M
+  - α
+  - ι
+  - ο
+  - O
+  - H
+  - R
+  - ε
+  - τ
+  - '1'
+  - 
+  - Q
+  - j
+  - ν
+  - σ
+  - υ
+  - '2'
+  - ̓
+  - ρ
+  - L
+  - ̨
+  - ς
+  - μ
+  - y
+  - ᛘ
+  - λ
+  - œ
+  - η
+  - '3'
+  - κ
+  - '4'
+  - π
+  - ͂
+  - '!'
+  - ·
+  - ω
+  - '5'
+  - '|'
+  - ˒
+  - ̂
+  - G
+  - '?'
+  - '6'
+  - B
+  - ¶
+  - ;
+  - )
+  - F
+  - '8'
+  - '9'
+  - γ
+  - ß
+  - '7'
+  - δ
+  - ']'
+  - (
+  - ꝙ
+  - θ
+  - φ
+  - '0'
+  - χ
+  - ̔
+  - z
+  - 
+  - β
+  - ꝗ
+  - ꝓ
+  - ꝰ
+  - X
+  - ξ
+  - /
+  - 
+  - ̧
+  - Α
+  - ͅ
+  - ̈
+  - ꝶ
+  - Ε
+  - ꝑ
+  - Κ
+  - ζ
+  - ’
+  - "'"
+  - k
+  - ꝵ
+  - 
+  - ψ
+  - Æ
+  - Π
+  - Τ
+  - ẜ
+  - ⁋
+  - Z
+  - Β
+  - ʹ
+  - Μ
+  - U
+  - '-'
+  - '*'
+  - Σ
+  - Y
+  - K
+  - Δ
+  - đ
+  - ❧
+  - Ꝙ
+  - J
+  - Ν
+  - Λ
+  - ו
+  - ח
+  - ł
+  - Ο
+  - א
+  - ל
+  - י
+  - ꝯ
+  - »
+  - ↄ
+  - £
+  - Η
+  - $
+  - Υ
+  - Γ
+  - Θ
+  - ẞ
+  - ̄
+  - ש
+  - ד
+  - ב
+  - –
+  - w
+  - ħ
+  - §
+  - „
+  - Χ
+  - ᾽
+  - ת
+  - פ
+  - ה
+  - +
+  - Ι
+  mode: NFD
+description: Data for data for Paul’s exegesis.
+format: Alto-XML
+hands:
+  count: '1'
+  precision: exact
+language:
+- lat
+license:
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+production-software: eScriptorium + Kraken
+project-name: L'exegese Paulinienne
+project-website:  https://16thexegesisdh.github.io/ReformingPaul/
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
+script:
+- iso: Latn
+script-type: only-typed
+time:
+  notAfter: '1400'
+  notBefore: '1600'
+title: Corpus-A
+transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
+url: https://github.com/16thExegesisDH/HTR-Corpus-B
+volume:
+- count: 746815
+  metric: characters
+- count: 485
+  metric: files
+- count: 18815
+  metric: lines
+- count: 3246
+  metric: regions
