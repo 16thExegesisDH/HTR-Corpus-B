@@ -89,14 +89,14 @@ Bullinger_1-Tim_C_2
 ## How to cite 
 
 ```bibtex
-@misc{Goy_HTR-Corpus-A_16thExegesis,
-  author={Floriane Goy, Noemi Schürmann, Benjamin Manig, Matteo Colombo },
+@misc{Goy_HTR-Corpus-B_16thExegesis,
+  author={Floriane Goy },
   title={HTR of Latin printed book from 16th Century},
   version={1.0},
   address={Genève},
   publisher={université de Genève},
   year={2023-2026},
-  url={https://github.com/16thExegesisDH/HTR-Corpus-A},
+  url={https://github.com/16thExegesisDH/HTR-Corpus-B},
 }
 ```
 
