@@ -171,7 +171,7 @@ url: https://github.com/16thExegesisDH/HTR-Corpus-B
 volume:
 - count: 720478
   metric: characters
-- count: 533
+- count: 534
   metric: files
 - count: 19139
   metric: lines
