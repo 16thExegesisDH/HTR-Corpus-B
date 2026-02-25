@@ -61,8 +61,8 @@ characters:
   - ο
   - ι
   - '5'
-  - R
   - L
+  - R
   - ν
   - œ
   - ε
@@ -169,7 +169,7 @@ title: Corpus-A
 transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
 url: https://github.com/16thExegesisDH/HTR-Corpus-B
 volume:
-- count: 720478
+- count: 720476
   metric: characters
 - count: 534
   metric: files
