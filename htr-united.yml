@@ -19,8 +19,8 @@ characters:
   - ſ
   - c
   - d
-  - l
   - s
+  - l
   - p
   - ','
   - .
@@ -33,121 +33,123 @@ characters:
   - æ
   - ¬
   - '&'
-  - ̀
   - ̃
+  - ̀
   - x
   - D
   - E
-  - P
   - A
+  - P
   - ':'
   - I
   - C
   - S
   - '1'
-  - T
   - ́
-  - V
+  - T
   - j
+  - V
   - N
   - '2'
-  - Q
   - M
+  - Q
+  - 
   - y
-  - '3'
   - H
   - α
-  - 
-  - '4'
+  - '3'
   - ι
+  - '4'
   - ο
-  - R
-  - L
-  - '5'
-  - œ
   - ̨
+  - L
+  - R
+  - œ
+  - '5'
   - ̂
   - ν
-  - ε
   - )
+  - ε
   - '6'
   - '7'
+  - ρ
   - '8'
   - ς
-  - '9'
-  - G
   - O
-  - ρ
+  - G
   - τ
+  - '9'
   - B
-  - ̓
-  - '0'
   - σ
-  - F
-  - λ
   - '?'
-  - ;
-  - π
+  - ̓
   - υ
+  - λ
+  - F
+  - π
+  - '0'
   - κ
-  - η
-  - (
+  - ;
   - γ
-  - μ
+  - η
   - ω
+  - μ
+  - (
   - δ
   - θ
-  - „
   - z
+  - „
   - ͂
   - φ
   - "'"
-  - Α
   - χ
-  - ‟
-  - ξ
-  - ̧
-  - ’
-  - β
-  - ̈
   - ꝙ
+  - Α
+  - ̈
+  - ̧
   - ᛘ
-  - Æ
   - '-'
-  - ꝰ
-  - »
-  - ζ
+  - ’
+  - ‟
+  - β
   - 
-  - Μ
-  - '*'
-  - ̔
   - ß
+  - ξ
+  - »
+  - ꝰ
+  - Æ
+  - '*'
   - ꝓ
-  - ʹ
-  - Ε
-  - J
-  - Π
-  - Β
-  - Z
+  - ζ
   - ꝗ
-  - Τ
+  - ̔
+  - Ε
+  - Μ
+  - Β
+  - J
+  - Z
+  - ʹ
   - '!'
-  - ·
+  - Π
   - U
   - '"'
-  - '{'
-  - ɇ
-  - Κ
-  - K
   - X
+  - ɇ
+  - Τ
+  - ·
+  - k
+  - Κ
+  - '{'
   - ꝑ
+  - K
+  - £
   - '|'
   - Y
-  - k
   - Ν
   - †
-  - £
   - ¨
+  - đ
+  - Δ
   - –
   - w
   - Σ
@@ -179,11 +181,11 @@ title: Corpus-A
 transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
 url: https://github.com/16thExegesisDH/HTR-Corpus-B
 volume:
-- count: 971088
+- count: 1203305
   metric: characters
-- count: 596
+- count: 657
   metric: files
-- count: 24369
+- count: 29268
   metric: lines
-- count: 3854
+- count: 4706
   metric: regions
