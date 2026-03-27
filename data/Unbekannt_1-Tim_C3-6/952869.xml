@@ -156,9 +156,6 @@
             <String CONTENT="5" HPOS="509" VPOS="1193" WIDTH="26" HEIGHT="63" WC="0.9999767541885376"/>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="410" VPOS="1198" WIDTH="31" HEIGHT="30" ID="block_9" TAGREFS="BT15">
-          <Shape><Polygon POINTS="441 1198 441 1228 410 1228 410 1198"/></Shape>
-        </TextBlock>
       </PrintSpace>
     </Page>
   </Layout>
