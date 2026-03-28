@@ -29,16 +29,16 @@
         </TextBlock>
         <TextBlock HPOS="20" VPOS="290" WIDTH="84" HEIGHT="107" ID="block_3" TAGREFS="BT10">
           <Shape><Polygon POINTS="104 290 104 397 20 397 20 290"/></Shape>
-          <TextLine ID="line_3" TAGREFS="LT8" BASELINE="27 386 88 387" HPOS="24" VPOS="349" WIDTH="68" HEIGHT="45">
+          <TextLine ID="line_3" TAGREFS="LT8" BASELINE="23 386 83 387" HPOS="24" VPOS="349" WIDTH="68" HEIGHT="45">
             <Shape><Polygon POINTS="24 391 90 394 92 388 92 362 25 349 25 385"/></Shape>
-            <String CONTENT="d" HPOS="24" VPOS="349" WIDTH="68" HEIGHT="45" WC="0.9999359846115112"/>
+            <String CONTENT="E" HPOS="24" VPOS="349" WIDTH="68" HEIGHT="45"/>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="12" VPOS="273" WIDTH="679" HEIGHT="488" ID="block_4" TAGREFS="BT3804">
-          <Shape><Polygon POINTS="691 273 691 761 16 761 12 277"/></Shape>
+        <TextBlock HPOS="8" VPOS="273" WIDTH="683" HEIGHT="488" ID="block_4" TAGREFS="BT3804">
+          <Shape><Polygon POINTS="691 273 691 761 16 761 14 410 8 278 112 278"/></Shape>
           <TextLine ID="line_4" TAGREFS="LT8" BASELINE="114 311 350 307 678 307" HPOS="112" VPOS="272" WIDTH="565" HEIGHT="52">
             <Shape><Polygon POINTS="113 310 113 324 193 318 295 324 296 324 341 317 349 323 350 323 352 323 353 323 407 317 571 323 572 323 676 314 677 306 676 272 112 272 113 310"/></Shape>
-            <String CONTENT="XOMNIBVS epiſtolis Paulinis liquet Ti¬" HPOS="112" VPOS="272" WIDTH="565" HEIGHT="52" WC="0.9822141183050055"/>
+            <String CONTENT="X OMNIBVS epiſtolis Paulinis liquet Ti¬" HPOS="112" VPOS="272" WIDTH="565" HEIGHT="52"/>
           </TextLine>
           <TextLine ID="line_5" TAGREFS="LT8" BASELINE="102 354 686 350" HPOS="100" VPOS="313" WIDTH="585" HEIGHT="50">
             <Shape><Polygon POINTS="101 353 101 363 683 359 685 349 682 323 576 323 561 315 560 315 558 315 525 322 500 313 499 313 498 313 467 314 465 314 464 314 464 315 455 323 305 314 304 314 303 314 301 314 301 315 292 324 268 315 267 315 265 315 174 324 163 317 163 315 162 315 161 315 129 315 127 315 126 315 100 326 101 353"/></Shape>
@@ -152,8 +152,8 @@
             <String CONTENT="mulieres." HPOS="29" VPOS="1195" WIDTH="140" HEIGHT="53" WC="0.9986512329843309"/>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="713" VPOS="753" WIDTH="47" HEIGHT="63" ID="block_10" TAGREFS="BT15">
-          <Shape><Polygon POINTS="760 753 760 816 713 816 713 753"/></Shape>
+        <TextBlock HPOS="714" VPOS="756" WIDTH="38" HEIGHT="52" ID="block_10" TAGREFS="BT15">
+          <Shape><Polygon POINTS="752 756 752 808 714 808 714 756"/></Shape>
           <TextLine ID="line_29" TAGREFS="LT8" BASELINE="724 789 743 789" HPOS="724" VPOS="758" WIDTH="19" HEIGHT="52">
             <Shape><Polygon POINTS="724 789 724 810 743 806 743 789 742 758 724 761 724 789"/></Shape>
             <String CONTENT="1" HPOS="724" VPOS="758" WIDTH="19" HEIGHT="52" WC="0.9999675750732422"/>
@@ -186,9 +186,6 @@
             <Shape><Polygon POINTS="742 1236 734 1236 734 1273 734 1296 749 1294 749 1273 749 1236 742 1236"/></Shape>
             <String CONTENT="3" HPOS="734" VPOS="1236" WIDTH="15" HEIGHT="60" WC="0.9996722936630249"/>
           </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="714" VPOS="756" WIDTH="38" HEIGHT="52" ID="block_15" TAGREFS="BT15">
-          <Shape><Polygon POINTS="752 756 752 808 714 808 714 756"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>
