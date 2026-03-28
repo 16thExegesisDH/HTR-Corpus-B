@@ -148,9 +148,6 @@
             <String CONTENT="mnia." HPOS="179.0" VPOS="544.0" WIDTH="75.0" HEIGHT="37.0" WC="0.9720104813575745"/>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="301" VPOS="456" WIDTH="672" HEIGHT="832" ID="block_6" TAGREFS="BT3807">
-          <Shape><Polygon POINTS="973 456 973 1288 301 1288 301 456"/></Shape>
-        </TextBlock>
       </PrintSpace>
     </Page>
   </Layout>

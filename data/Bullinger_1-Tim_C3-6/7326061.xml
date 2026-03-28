@@ -138,7 +138,7 @@
             <Shape><Polygon POINTS="501 1300 491 1300 490 1323 488 1333 502 1339 505 1325 506 1300 501 1300"/></Shape>
             <String CONTENT="u" HPOS="488" VPOS="1300" WIDTH="18" HEIGHT="39" WC="0.9999271631240845"/>
           </TextLine>
-          <TextLine ID="line_28" BASELINE="547 1334 565 1335" HPOS="547" VPOS="1334" WIDTH="18" HEIGHT="1">
+          <TextLine ID="line_28" TAGREFS="LT8" BASELINE="547 1334 565 1335" HPOS="547" VPOS="1334" WIDTH="18" HEIGHT="1">
             <String CONTENT="3" HPOS="547" VPOS="1334" WIDTH="18" HEIGHT="1"/>
           </TextLine>
         </TextBlock>

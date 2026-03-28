@@ -141,7 +141,7 @@
         <TextBlock HPOS="946.0" VPOS="1304.0" WIDTH="40.0" HEIGHT="37.0" ID="block_4" TAGREFS="BT17">
           <Shape><Polygon POINTS="946 1304 986 1304 986 1341 946 1341 946 1304"/></Shape>
           <TextLine ID="line_30" TAGREFS="LT8" BASELINE="957 1337 975 1337" HPOS="957" VPOS="1337" WIDTH="18" HEIGHT="0">
-            <String CONTENT="" HPOS="957" VPOS="1337" WIDTH="18" HEIGHT="0"/>
+            <String CONTENT="in" HPOS="957" VPOS="1337" WIDTH="18" HEIGHT="0"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>

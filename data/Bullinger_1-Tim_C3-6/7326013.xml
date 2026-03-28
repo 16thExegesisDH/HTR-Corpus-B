@@ -144,8 +144,8 @@
         </TextBlock>
         <TextBlock HPOS="490.0" VPOS="1293.0" WIDTH="104.0" HEIGHT="47.0" ID="block_4" TAGREFS="BT17">
           <Shape><Polygon POINTS="490 1293 594 1293 594 1340 490 1340 490 1293"/></Shape>
-          <TextLine ID="line_31" BASELINE="497 1328 581 1328" HPOS="497" VPOS="1328" WIDTH="84" HEIGHT="0">
-            <String CONTENT="" HPOS="497" VPOS="1328" WIDTH="84" HEIGHT="0"/>
+          <TextLine ID="line_31" TAGREFS="LT8" BASELINE="497 1328 581 1328" HPOS="497" VPOS="1328" WIDTH="84" HEIGHT="0">
+            <String CONTENT="r 3" HPOS="497" VPOS="1328" WIDTH="84" HEIGHT="0"/>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="637.0" VPOS="96.0" WIDTH="61.0" HEIGHT="41.0" ID="block_5" TAGREFS="BT15">

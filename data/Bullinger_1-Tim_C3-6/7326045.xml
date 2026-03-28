@@ -135,10 +135,10 @@
         <TextBlock HPOS="495.0" VPOS="1284.0" WIDTH="100.0" HEIGHT="50.0" ID="block_6" TAGREFS="BT17">
           <Shape><Polygon POINTS="495 1284 595 1284 595 1334 495 1334 495 1284"/></Shape>
           <TextLine ID="line_27" TAGREFS="LT8" BASELINE="506 1314 521 1314" HPOS="506" VPOS="1314" WIDTH="15" HEIGHT="0">
-            <String CONTENT="" HPOS="506" VPOS="1314" WIDTH="15" HEIGHT="0"/>
+            <String CONTENT="t" HPOS="506" VPOS="1314" WIDTH="15" HEIGHT="0"/>
           </TextLine>
           <TextLine ID="line_28" TAGREFS="LT8" BASELINE="558 1325 581 1325" HPOS="558" VPOS="1325" WIDTH="23" HEIGHT="0">
-            <String CONTENT="" HPOS="558" VPOS="1325" WIDTH="23" HEIGHT="0"/>
+            <String CONTENT="3" HPOS="558" VPOS="1325" WIDTH="23" HEIGHT="0"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>

@@ -150,7 +150,7 @@
             <String CONTENT="I" HPOS="565" VPOS="1307" WIDTH="21" HEIGHT="46" WC="0.9501011371612549"/>
           </TextLine>
           <TextLine ID="line_30" TAGREFS="LT8" BASELINE="506 1318 526 1319" HPOS="506" VPOS="1318" WIDTH="20" HEIGHT="1">
-            <String CONTENT="" HPOS="506" VPOS="1318" WIDTH="20" HEIGHT="1"/>
+            <String CONTENT="y" HPOS="506" VPOS="1318" WIDTH="20" HEIGHT="1"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>

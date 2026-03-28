@@ -136,8 +136,8 @@
         </TextBlock>
         <TextBlock HPOS="482.0" VPOS="1293.0" WIDTH="102.0" HEIGHT="49.0" ID="block_4" TAGREFS="BT17">
           <Shape><Polygon POINTS="482 1293 584 1293 584 1342 482 1342 482 1293"/></Shape>
-          <TextLine ID="line_29" TAGREFS="LT8" BASELINE="487 1319 571 1323" HPOS="487" VPOS="1319" WIDTH="84" HEIGHT="4">
-            <String CONTENT="" HPOS="487" VPOS="1319" WIDTH="84" HEIGHT="4"/>
+          <TextLine ID="line_29" TAGREFS="LT8" BASELINE="494 1324 571 1323" HPOS="494" VPOS="1323" WIDTH="77" HEIGHT="1">
+            <String CONTENT="r 5" HPOS="494" VPOS="1323" WIDTH="77" HEIGHT="1"/>
           </TextLine>
         </TextBlock>
       </PrintSpace>
