@@ -191,11 +191,11 @@ title: Corpus-A
 transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
 url: https://github.com/16thExegesisDH/HTR-Corpus-B
 volume:
-- count: 1912142
+- count: 1912154
   metric: characters
 - count: 1066
   metric: files
 - count: 43531
   metric: lines
-- count: 7270
+- count: 7263
   metric: regions
