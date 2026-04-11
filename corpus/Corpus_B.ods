@@ -2,15 +2,16 @@ Domaine,Identifier,files_identifier,Segmentation,Transcription,v_rl,Page,Author,
 IN,Lefevre_1-Tim_C1-C3-6,bsb11059254_00490-bsb11059254_00492 | bsb11059254_00496-bsb11059254_514,Y,Y,Y,21,Jacques Lefèvre d'Etaples,Commentarii in epistolas d. Pauli,Anonymus,1512,Paris,https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11059254-9,Regensburg SB,999/2Script.801
 IN,Bugenhagen_1-Tim_C3-6,Bsb00027764_00173-bsb00027764_00199,Y,Y,Y,26,Johannes Bugenhagen,In epistulam Pauli ad Timotheum,Anonymus -Adam Petri?,1527,Basel,https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00027764-8,München SB,Res/Exeg. 309 b Beibd.3
 IN,Cajetan_1-Tim_C3-C6,Bsb10143002_00308-bsb10143002_00317,Y,Y,Y,9,Thomas Cajetan,Epistolae Pauli et Aliorum Apostolorum ad Graecam Veritatem Castigatae,Giunta Luca-Antonio,1531,Venezia,https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10143002-9,München SB,2 Exeg. 610
-IN,Unbekannt_1-Tim_C1_C3-6, 952765-952804 | 952829-952957,Y,Y,no,195,Unbekannt,Commentarius in priorem Timothei epistolam à viro summae pietatis studio conscriptus,Heinrich Petri,1533,Basel,https://doi.org/10.3931/e-rara-3101,Basel UB,UBH FG VIII2 16:7
+IN,Unbekannt_1-Tim_C1_C3-6, 952765-952804 | 952829-952957,Y,Y,Y,195,Unbekannt,Commentarius in priorem Timothei epistolam à viro summae pietatis studio conscriptus,Heinrich Petri,1533,Basel,https://doi.org/10.3931/e-rara-3101,Basel UB,UBH FG VIII2 16:7
 IN,Pellicanus_1-Tim_C1_C3-6, 844085-844100 | 844112-844166,Y,Y,Y,70, Pellicanus Conrad, In omnes apostolicas epistolas Pauli commentarii, aterlier Frocher,1539, Zurich, https://doi.org/10.3931/e-rara-2604,Zürich ZB, III B 14 | G
 IN,Calvin_1-Tim_C1_C3-6,6293959-6293982 | 6293996-6294054,Y,Y,Y,82, Jean Calvin, Commentarii in utranque Pauli epistolam ad Timotheum,  Jean Girard,1548, Geneve, https://doi.org/10.3931/e-rara-5708,Genève BGE,  Bb 1493 (2)
 IN,Lambertus_1-Tim_C3-6,2013003-2013425,Y,Y,Y,422,Lambert Daneau,priorem Epistolam ad Timotheum,Eustathius Vignon,1577,Genève,https://doi.org/10.3931/e-rara-6338,Genève BGE,BGE Cti 1753 BGE S 22877
 IN,Hyperius_1-Tim_C1_C3-6,16892603-16892664 | 16892677-16892736,Y,Y,Y,121, Hyperius Andreas, Commentarii  in epistolas D. Pauli ad Timotheum , Christoph Froschauer,1582, Zurich, https://doi.org/10.3931/e-rara-62382, Zürich ZB,  C 85 | G
-IN,Bullinger_1-Tim_C1_C3-6,7325935-7325964 | 7325997-7326099,N,N,N,131,Heinrich Bullinger,In D. Apostoli Pauli ad Thessalonicenses Timotheum Titum & Philemonem epistolas,Christoph Froschauer,1536,Zürich,https://doi.org/10.3931/e-rara-23723,Zürich ZB,VD 16 B 5144 Vischer C 251
+IN,Bullinger_1-Tim_C1_C3-6,7325935-7325964 | 7325997-7326099,Y,Y,Y,131,Heinrich Bullinger,In D. Apostoli Pauli ad Thessalonicenses Timotheum Titum & Philemonem epistolas,Christoph Froschauer,1536,Zürich,https://doi.org/10.3931/e-rara-23723,Zürich ZB,VD 16 B 5144 Vischer C 251
+IN,Megander_1_Tim_C1-C6,1989013-1989097,N,N,N,84,Kaspar Megander,"In divi Pauli epistolas tres, ad Timotheum & Titum",Thomam Platterum & Balthasarem Lasium,1536,Basel,https://doi.org/10.3931/e-rara-7628,Basel UB, UBH FP XI 10:2
 OUT,Bucer_Eph_test,bsb0003503_00001-bsb0003503_00224,N,N,N,224,Martin Bucer,Epistolam ad Ephesios,Anonymus,1527,Strassbourg,https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00035303-6,München SB,Polem. 408 Beibd.2
 OUT,Lefevre_Rm_test_C1_C5-16,bsb11059254_00195-bsb11059254_00202 | bsb11059254_00223-bsb11059254_278,N,N,N,62,Jacques Lefèvre d'Etaples,Commentarii in epistolas d. Pauli,Anonymus,1512,Paris,https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11059254-9,Regensburg SB,999/2Script.801
 OUT,Bucer_Rm_C12-13_test,bsb11059175_00484-bsb11059175_00508,N,N,N,24,Martin Bucer, Metaphrases et enarrationem in Epistolam ad Romanos,Wendelin Rihel,1536,Strassbourg, https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11059175-0,Regensburg SB,999/2Script.662
-,Total : IN,,,,,1077,,,,,,,,
+,Total : IN,,,,,1161,,,,,,,,
 ,Total : OUT,,,,,310,,,,,,,,
-,Total,,,,,1387,,,,,,,,
+,Total,,,,,1471,,,,,,,,
