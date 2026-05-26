@@ -138,12 +138,12 @@ characters:
   - Β
   - Μ
   - U
+  - ·
   - k
   - ͅ
   - Π
   - ʹ
   - Τ
-  - ·
   - '}'
   - ɇ
   - '"'
@@ -191,11 +191,11 @@ title: Corpus-A
 transcription-guidelines: Our data follow SegmOnto segmentation standards (https://segmonto.github.io).
 url: https://github.com/16thExegesisDH/HTR-Corpus-B
 volume:
-- count: 1912155
+- count: 1913142
   metric: characters
-- count: 1066
+- count: 1067
   metric: files
-- count: 43531
+- count: 43562
   metric: lines
-- count: 7262
+- count: 7275
   metric: regions
