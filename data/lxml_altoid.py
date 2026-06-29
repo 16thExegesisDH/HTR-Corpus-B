@@ -1,7 +1,7 @@
 import glob
 from lxml import etree
 
-folder_path = "Anonymus_1-Tim_C3-6/*.xml"
+folder_path = "Hyperius_1-Tim_C1/*.xml"
 
 ALTO_NS = "http://www.loc.gov/standards/alto/ns-v4#"
 NSMAP = {"alto": ALTO_NS}
